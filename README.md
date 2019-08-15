@@ -8,3 +8,4 @@ rem Set the system language and locale properties to Brazil's
 set JAVAOPTS=%JAVAOPTS% -Duser.country=BR -Duser.language=pt-BR
 )
 
+O APP.js deve ser copiado e executado na seção "edit pages" do Mango Automation.
